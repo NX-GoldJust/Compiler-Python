@@ -16,3 +16,6 @@ https://www.jdoodle.com/
 Et inscrivez-vous une fois fais allez sur go api puis soucrivez a l'offre gratuite.
 Une fois que vous avez les client id et client secret rendez vous dans le fichier config.py et remplissez les informations bien entre ".
 Et pour finir lancer le bot.
+
+![alt text](https://github.com/NX-GoldJust/Compiler-Python/blob/main/img/exemple-1.png)
+![alt text](https://github.com/NX-GoldJust/Compiler-Python/blob/main/img/exemple-2.png)
